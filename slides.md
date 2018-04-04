@@ -15,38 +15,43 @@ Montréal - 19 avril 2018
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/paralitt.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/PLA160.GIF" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
-# Qu'est-ce que la _para_-littérature ?
+## Weltbild
 
-Du grec « παρά » : à côté de, en marge, presque
-<br>
-<br>
-Exemples ; para-médical, para-normal, para-texte
+- Image du monde
+- Vision du monde, conception du monde
+- Heidegger, _Chemins qui mènent nulle part_ :
+  - Essence de la modernité : <br />« ce qui caractérise et distingue le règne des Temps Modernes »
+  - Monde : ensemble de toutes les choses qui existent
+  - Image : reproduction de quelque chose
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/PLA160.GIF" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
-### Quelques questions problématiques
+## Weltbild
 
-  <ul>
-  <li>La <b>L</b>ittérature ou la <b>l</b>ittérature ? - Valeur culturelle au sens large</li>
-  <li>Approches différentes selon l'époque, les modes et les pensées</li>
-  <li>Institutionnalisation de la littérature : qui décide de la valeur esthétique d'une œuvre ?</li>
-  <li>Définition qui dérive de celle de littérature</li>
-  <li>Littérature sans valeur esthétique ? Littérature de masse, commerciale, populaire, de genre, récréative, ...</li>
-  </ul>
+> « nous le tenions devant nous [le monde], en tout ce qui relève de lui, en tout ce en quoi il consiste, comme système. [...] Là où le Monde devient image conçue, la totalité de l'étant est comprise et fixée comme ce sur quoi l'homme peut s'orienter, comme ce qu'il veut par conséquent amener et avoir devant soi, aspirant ainsi à l'arrêter, dans un sens décisif, en une représentation. »
+
+Martin Heidegger, _Chemins qui mènent nulle part_
+
+<!-- .element: class="source" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
+<!-- .slide: data-background-video="video/Netarts _ Chatonsky.mp4" data-background-size="cover"-->
 <!-- .slide: class="hover"-->
-### Expressions pour caractériser la paralittérature :
-  - Mode de production (grande diffusion, grand tirage, de masse)
-  - Causes de la production
-  - Mode de publication (feuilleton)
-  - Circuit de distribution (gare, supermarché)
-  - Nature du papier employé
-  - Prix des livres ou des fascicules
-  - Nature du consommateur
-  - Nature de la consommation
+### Post-image-du-monde, post-numérique
+
+- Entrelacement de l'espace tangible et de l'espace en ligne
+- Post-numérique
+  - Gregory Chatonsky : « après l’Internet, c’est quand le réseau nous entoure de toutes parts et constitue notre quotidienneté »
+- Cartographier après le numérique :
+  - Cartographier les sites internet
+  - Cartographier l’internet
+  - Cartographier le monde
+
+  Source video : © Gregory Chatonsky, _Netarts_
+
+  <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
