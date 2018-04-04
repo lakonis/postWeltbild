@@ -1,15 +1,14 @@
-<!-- .slide: data-background-image="img/6_definition05.jpg" -->
+<!-- .slide: data-background-image="img/mercator.jpg" -->
 <!-- .slide: class="hover"-->
 
-## Le roman-feuilleton. <br> Des outils littéraires pour l'analyse des séries-télé
+## Post-_Weltbild_. Cartographier le monde après le numérique
 
-Enrico Agostini-Marchese <br> CRC sur les écritures numériques <br> Université de Montréal
-<br>
-<br>
-CIN 2122 - Hiver 2018
-<br>Montréal - 21 mars 2018
-
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
+### Enrico Agostini-Marchese  <br /> & <br />  Christelle Proulx
+<br />
+HAR 6150 - Hiver 2018
+<br />
+<br />
+Montréal - 19 avril 2018
 
 <!-- .element: style="font-size:1.4rem" -->
 
