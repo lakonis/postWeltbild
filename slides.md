@@ -37,7 +37,7 @@ Martin Heidegger, _Chemins qui mènent nulle part_
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="video/Netarts _ Chatonsky.mp4" data-background-size="cover"-->
+<!-- .slide: data-background-video="video/Netarts _ Chatonsky.mp4" data-background-video-loop="loop" data-background-size="cover"-->
 <!-- .slide: class="hover"-->
 ### Post-image-du-monde, post-numérique
 
@@ -52,18 +52,11 @@ Martin Heidegger, _Chemins qui mènent nulle part_
   Source video : © Gregory Chatonsky, _Netarts_
 
   <!-- .element: class="source" -->
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-  <ul>
-  <li>Production du contenu</li>
-  <li>Diffusion du contenu</li>
-  <li>Légitimation du contenu</li>
-  </ul>
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
-# Genre
+# Atlas 
 Catégorie d'œuvres définie par un ensemble de règles et de caractères communs
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
