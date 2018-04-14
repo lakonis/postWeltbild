@@ -295,7 +295,7 @@ body {
 }
 
 .reveal h1, .reveal h2, .reveal h3 {
-  color: #008ad5;
+  color: black;
   background-color: ghostwhite;
 }
 
@@ -331,6 +331,6 @@ p.source {
 
 #instin-studies {
   color:  ghostwhite;
-  background-color: #008ad5;
+  background-color: #E30800;
 
 }
