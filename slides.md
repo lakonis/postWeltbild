@@ -98,7 +98,7 @@ Martin Heidegger, _Chemins qui mènent nulle part_
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #### Louise Drühle, _Critical atlas of Internet_, 2016.
 
-<iframe width="1000" height="600" src="http://internet-atlas.net/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://internet-atlas.net/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/atlas-formats.jpg" data-background-size="contain"-->
@@ -108,7 +108,7 @@ Martin Heidegger, _Chemins qui mènent nulle part_
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Jon Rafman, _The Nine Eyes of Google Street View_, 2009-.
 
-<iframe src="http://9-eyes.com" width="1000" height="550" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://9-eyes.com" width="1000" height="550" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Ed Rusha, _Every Building on Sunset Strip_, 1966.
