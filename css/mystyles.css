@@ -233,6 +233,14 @@ body {
   border: 0;
   box-shadow: none; }
 
+.reveal section img.leftimage {
+  float: left;
+}
+
+.reveal section img.rigthimage {
+  float: right;
+}
+
 .reveal a img {
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
