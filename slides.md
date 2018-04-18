@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="img/mercator.jpg" -->
+<!-- .slide: data-background-image="img/mercator.jpg"-->
 <!-- .slide: class="hover"-->
 
 ## Post-_Weltbild_. Cartographier le monde après le numérique
