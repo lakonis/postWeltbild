@@ -146,8 +146,11 @@ Source photo : Internet Atlas, University of Wisconsin, atlas-test.wail.wisc.edu
 <!-- .element: class="source" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<<<<<<< HEAD
 ##### Pour une diagrammatique conceptuelle et sensible d’Internet : _Critical Atlas of Internet_ (2016)
 
+=======
+>>>>>>> 7258c1ac2c1e2dd776675b886b35d766941ba087
 <iframe width="1000" height="600" src="https://internet-atlas.net/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
