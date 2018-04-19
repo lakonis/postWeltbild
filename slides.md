@@ -145,7 +145,10 @@ Source photo : Internet Atlas, University of Wisconsin, atlas-test.wail.wisc.edu
 
 <!-- .element: class="source" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ##### Pour une diagrammatique conceptuelle et sensible d’Internet : _Critical Atlas of Internet_ (2016)
+
+=======
 
 <iframe width="1000" height="600" src="https://internet-atlas.net/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -198,7 +201,7 @@ Kevin Lynch, _The Image of the City_
 <!-- .slide: data-background-video="video/pente3.mp4" data-background-video-loop="loop" data-background-size="cover"-->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- essayer de les mettres à côté dans la même page, les trois, ou au pire les deux dernières-->
-<iframe width="1000" height="600" src="http://internet-atlas.net/img-web/relief4.mp4.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="http://internet-atlas.net/img-web/relief4.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <br />
